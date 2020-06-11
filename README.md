@@ -7,7 +7,7 @@ data analysis. The "advanced" part refers to using Python and scripts (not GUI's
 over entire classes.
 
 ### The Hogwart's way 
-I called the way of teaching the course *the Hogwart's way*. It also refers to the fact 
+I called the way of teaching the course *the Hogwart's way*. It refers to the fact 
 that for most participants, the fMRI data analysis, python programming, version control, etc. was like magic at the beginning of the course.
 The goal of the course was to introduce topics of fMRI data analysis, reproducibility, 
 Python, and version control, giving students a lot of **FUN**  and freedom. 
