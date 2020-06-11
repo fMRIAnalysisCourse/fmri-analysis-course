@@ -15,9 +15,13 @@ Python, and version control, giving students a lot of **FUN**  and freedom.
 
 The most important goal of the course was to reduce the initial fear of trying something 
 entirely new, which is, in fact, quite complex. 
-And, YES, it includes a lot of *Harry Potter* content.
 
-How to become *neuroinfomagician*?
+
+:warning: **Content warning**:
+The course includes a lot of *Harry Potter* content not suitable for muggles 
+and too serious people.
+
+### How to become *neuroinfomagician*?
 
 ![](images/fMRIDA_study_plan.png)
 
