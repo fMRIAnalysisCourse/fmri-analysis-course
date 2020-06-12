@@ -110,4 +110,4 @@ Nilearn, Scipy
 
 ##### Homework: 
 - GitHub Classroom: seed-based functional connectivity
-- Poster assignment
+- Poster assignment 
