@@ -44,33 +44,33 @@ Activity + Homework + Poster + Magic
 
 ## Content
 
-### I. Introduction to neuroimaging & open science (3h)
+### I. [Introduction to neuroimaging](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/00-introduction/00-fMRIDA_06-03-2019.pdf) & [open science](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/01-reproducible_neuroimaging/01-fMRIDA_06-03-2019.pdf) (3h)
 
 ##### Tools:
 Jupyter lab, Markdown
 
 ##### Homework:
-- GitHub Classroom: fMRI Q&A in Markdown
-- DataCamp: Introduction to Python
-- DataCamp: Intermediate Python
+- GitHub Classroom: [fMRI Q&A in Markdown](https://github.com/fMRIAnalysisCourse/01-homework/blob/master/01-fMRIDA_homework.ipynb)
+- DataCamp Classroom: [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
+- DataCamp Classroom: [Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
 
-### II. fMRI data manipulation in Python (3h)
+### II. [fMRI data manipulation in Python](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/fMRIDA_27-03-2020.pdf) (3h)
 
 ##### Tools: 
 Matplotlib, Numpy, Nibabel, Nilearn, Pandas
 
 ##### Practice:
-- Structural MRI manipulation
-- Functional MRI manipulation
-- Dataframes manipulation in Pandas
+- [Structural MRI manipulation](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/00-structural_mri_manipulation_solution.ipynb)
+- [Functional MRI manipulation](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/01-functional_mri_manipulation_solution.ipynb)
+- [Dataframes manipulation in Pandas](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/02-data_frames_manipulation_solution.ipynb)
 
 ##### Homework:
-- GitHub Classroom: fMRI data manipulation in Python
-- DataCamp: Data Manipulation with pandas
-- DataCamp: Merging DataFrames with pandas
-- DataCamp: Introduction to Data Visualization with Matplotlib
+- GitHub Classroom: [fMRI data manipulation in Python](https://github.com/fMRIAnalysisCourse/02-homework)
+- DataCamp Classroom: [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
+- DataCamp Classroom: [Merging DataFrames with pandas](https://learn.datacamp.com/courses/merging-dataframes-with-pandas)
+- DataCamp Classroom: [Introduction to Data Visualization with Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
-### III. fMRI data preprocessing (3h)
+### III. [fMRI data preprocessing](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/03-fmri_data_preprocessing/fMRIDA_10-04-2020_%233.pdf) (3h)
 ##### Tools: 
 Nipype, Porcupine, fMRIPrep
 
@@ -79,10 +79,10 @@ Nipype, Porcupine, fMRIPrep
 - Preprocessing with Nipype
 
 ##### Homework:
-- YouTube: 3Blue1Brown Linear Algebra videos
+- YouTube: [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos
 - DataCamp: Exploratory Data Analysis in Python
 
-### IV. General Linear Model (3h + 3h)
+### IV. General Linear Model [Part 1](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/fMRIDA_24-04-2020_%234.pdf) & [Part 2](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/fMRIDA_08-05-2020_%235.pdf) (3h + 3h)
 
 ##### Tools: 
 Nistats, Nilearn, Sklearn
@@ -95,10 +95,10 @@ Nistats, Nilearn, Sklearn
 ##### Homework:
 - GitHub Classroom: Linear & multiple linear regression
 - GitHub Classroom: GLM analysis & fMRI results plotting
-- DataCamp: Introduction to Linear Modeling in Python
-- DataCamp: Statistical Thinking in Python (Part 1)
+- DataCamp Classroom: Introduction to Linear Modeling in Python
+- DataCamp Classroom: Statistical Thinking in Python (Part 1)
 
-### V. Functional connectivity & machine learning on fMRI data (3h) 
+### V. [Functional connectivity](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/05-functional_connectivity/fMRIDA_05-06-2020_%236.pdf) & [machine learning on fMRI data ](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/06-machine_learning/fMRIDA_05-06-2020_%237.pdf) (3h) 
 ##### Tools: 
 Nilearn, Scipy
 
@@ -109,5 +109,5 @@ Nilearn, Scipy
 - ML on fMRI data 
 
 ##### Homework: 
-- GitHub Classroom: seed-based functional connectivity
+- GitHub Classroom: Seed-based functional connectivity
 - Poster assignment 
