@@ -44,7 +44,7 @@ Activity + Homework + Poster + Magic
 
 ## Content
 
-#### I. Introduction to neuroimaging & open science (3h)
+### I. Introduction to neuroimaging & open science (3h)
 
 ##### Tools:
 Jupyter lab, Markdown
@@ -54,7 +54,7 @@ Jupyter lab, Markdown
 - DataCamp: Introduction to Python
 - DataCamp: Intermediate Python
 
-#### II. fMRI data manipulation in Python (3h)
+### II. fMRI data manipulation in Python (3h)
 
 ##### Tools: 
 Matplotlib, Numpy, Nibabel, Nilearn, Pandas
@@ -70,7 +70,7 @@ Matplotlib, Numpy, Nibabel, Nilearn, Pandas
 - DataCamp: Merging DataFrames with pandas
 - DataCamp: Introduction to Data Visualization with Matplotlib
 
-#### III. fMRI data preprocessing (3h)
+### III. fMRI data preprocessing (3h)
 ##### Tools: 
 Nipype, Porcupine, fMRIPrep
 
@@ -78,11 +78,11 @@ Nipype, Porcupine, fMRIPrep
 - Linear transformations in Python
 - Preprocessing with Nipype
 
-#####Homework:
+##### Homework:
 - YouTube: 3Blue1Brown Linear Algebra videos
 - DataCamp: Exploratory Data Analysis in Python
 
-#### IV. General Linear Model (3h + 3h)
+### IV. General Linear Model (3h + 3h)
 
 ##### Tools: 
 Nistats, Nilearn, Sklearn
@@ -98,11 +98,11 @@ Nistats, Nilearn, Sklearn
 - DataCamp: Introduction to Linear Modeling in Python
 - DataCamp: Statistical Thinking in Python (Part 1)
 
-#### V. Functional connectivity & machine learning on fMRI data (3h) 
-#####Tools: 
+### V. Functional connectivity & machine learning on fMRI data (3h) 
+##### Tools: 
 Nilearn, Scipy
 
-#####Practice:
+##### Practice:
 - Brain parcellations
 - Seed-seed connectivity
 - Seed-voxel connectivity
