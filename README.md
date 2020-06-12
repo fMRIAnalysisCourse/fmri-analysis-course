@@ -34,7 +34,7 @@ The course was supported by [DataCamp Classroom](datacamp.com/groups/education) 
 
 #### Time
 - **Lectures and practice**: 30h (split into 3h sessions, every two weeks)
-- **Homework, DataCamp Python courses, poster preparation**: ~50h (self work)
+- **Homework** (Jupyter Notebooks share via GitHub Classroom, DataCamp Python courses, poster preparation): ~50h (self work)
 - **Total time required to finish the course**: ~80h
 
 #### Grading 
@@ -47,7 +47,9 @@ Activity + Homework + Poster + Magic
 ### I. [Introduction to neuroimaging](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/00-introduction/00-fMRIDA_06-03-2019.pdf) & [open science](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/01-reproducible_neuroimaging/01-fMRIDA_06-03-2019.pdf) (3h)
 
 ##### Tools:
-Jupyter lab, Markdown
+[Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/), 
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), 
+[GitHub](https://github.com/)
 
 ##### Homework:
 - GitHub Classroom: [fMRI Q&A in Markdown](https://github.com/fMRIAnalysisCourse/01-homework/blob/master/01-fMRIDA_homework.ipynb)
@@ -57,7 +59,11 @@ Jupyter lab, Markdown
 ### II. [fMRI data manipulation in Python](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/fMRIDA_27-03-2020.pdf) (3h)
 
 ##### Tools: 
-Matplotlib, Numpy, Nibabel, Nilearn, Pandas
+[Matplotlib](https://matplotlib.org/), 
+[Numpy](https://numpy.org/), 
+[Nibabel](https://nipy.org/nibabel/), 
+[Nilearn](https://nilearn.github.io/), 
+[Pandas](https://pandas.pydata.org/)
 
 ##### Practice:
 - [Structural MRI manipulation](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/02-fmri_data_manipulation_in_python/00-structural_mri_manipulation_solution.ipynb)
@@ -72,42 +78,47 @@ Matplotlib, Numpy, Nibabel, Nilearn, Pandas
 
 ### III. [fMRI data preprocessing](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/03-fmri_data_preprocessing/fMRIDA_10-04-2020_%233.pdf) (3h)
 ##### Tools: 
-Nipype, Porcupine, fMRIPrep
+[Nipype](https://nipype.readthedocs.io/en/latest/), 
+[Porcupine](https://giraffe.tools/porcupine/TimVanMourik/SomeGiraffeExample), 
+[fMRIPrep](https://fmriprep.readthedocs.io/en/stable/)
 
 ##### Practice:
-- Linear transformations in Python
-- Preprocessing with Nipype
+- [Linear transformations in Python](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/03-fmri_data_preprocessing/linear_transformations.ipynb)
+- [Preprocessing with Nipype](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/03-fmri_data_preprocessing/fmri_preprocessing_nipype.ipynb)
 
 ##### Homework:
-- YouTube: [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) videos
-- DataCamp: Exploratory Data Analysis in Python
+- YouTube: [3Blue1Brown: Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
+- DataCamp Classroom: [Exploratory Data Analysis in Python](https://learn.datacamp.com/courses/exploratory-data-analysis-in-python)
 
 ### IV. General Linear Model [Part 1](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/fMRIDA_24-04-2020_%234.pdf) & [Part 2](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/fMRIDA_08-05-2020_%235.pdf) (3h + 3h)
 
 ##### Tools: 
-Nistats, Nilearn, Sklearn
+[Nistats](https://nistats.github.io/), 
+[Nilearn](https://nilearn.github.io/), 
+[Sklearn](https://scikit-learn.org/stable/)
 
 ##### Practice: 
-- Simple linear regression
-- Multiple linear regression
-- GLM on fMRI data
+- [Simple linear regression](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/simple_linear_regression.ipynb)
+- [Multiple linear regression](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/multiple_linear_regression.ipynb)
+- [GLM on fMRI data](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/04-general_linear_model/glm_on_fMRI_data.ipynb)
 
 ##### Homework:
-- GitHub Classroom: Linear & multiple linear regression
-- GitHub Classroom: GLM analysis & fMRI results plotting
-- DataCamp Classroom: Introduction to Linear Modeling in Python
-- DataCamp Classroom: Statistical Thinking in Python (Part 1)
+- GitHub Classroom: [Linear & multiple linear regression](https://github.com/fMRIAnalysisCourse/03-homework)
+- GitHub Classroom: [GLM analysis & fMRI results plotting](https://github.com/fMRIAnalysisCourse/04-homework)
+- DataCamp Classroom: [Introduction to Linear Modeling in Python](https://learn.datacamp.com/courses/introduction-to-linear-modeling-in-python)
+- DataCamp Classroom: [Statistical Thinking in Python (Part 1)](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1)
 
 ### V. [Functional connectivity](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/05-functional_connectivity/fMRIDA_05-06-2020_%236.pdf) & [machine learning on fMRI data ](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/06-machine_learning/fMRIDA_05-06-2020_%237.pdf) (3h) 
 ##### Tools: 
-Nilearn, Scipy
+[Nilearn](https://nilearn.github.io/), 
+[Scipy](https://www.scipy.org/)
 
 ##### Practice:
-- Brain parcellations
-- Seed-seed connectivity
-- Seed-voxel connectivity
-- ML on fMRI data 
+- [Brain parcellations](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/05-functional_connectivity/brain_parcellations.ipynb)
+- [Seed-seed connectivity](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/05-functional_connectivity/seed-seed_connectivity.ipynb)
+- [Seed-voxel connectivity](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/05-functional_connectivity/seed-voxel_connectivity.ipynb)
+- [ML on fMRI data](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/06-machine_learning/machine_learning_fMRI.ipynb) 
 
 ##### Homework: 
-- GitHub Classroom: Seed-based functional connectivity
+- GitHub Classroom: [Seed-based functional connectivity](https://github.com/fMRIAnalysisCourse/05-homework)
 - Poster assignment 
