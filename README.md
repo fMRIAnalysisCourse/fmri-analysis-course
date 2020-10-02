@@ -1,8 +1,7 @@
 # fMRI data analysis course
 
 Materials for *fMRI data analysis* course taught at [Nicolaus Copernicus University](https://www.umk.pl/en/) in Toruń
-for cognitive science students (including first-year students). The original course was called 
-*Advanced fMRI data analysis course* but it rather contains fundamental topics in fMRI 
+for cognitive science students (including first-year students). The course covers fundamental topics in fMRI 
 data analysis. The "advanced" part refers to using Python and scripts (not GUI's) 
 over entire classes.
 
@@ -44,7 +43,7 @@ Activity + Homework + Poster + Magic
 
 ## Content
 
-### I. [Introduction to neuroimaging](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/00-introduction/00-fMRIDA_06-03-2019.pdf) & [open science](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/01-reproducible_neuroimaging/01-fMRIDA_06-03-2019.pdf) (3h)
+### I. [Introduction to neuroimaging](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/00-introduction/00-fMRIDA_slides.pdf) & [open science](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/01-reproducible_neuroimaging/01-fMRIDA_slides.pdf) (3h)
 
 ##### Tools:
 [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/), 
