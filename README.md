@@ -2,8 +2,7 @@
 
 Materials for *fMRI data analysis* course taught at [Nicolaus Copernicus University](https://www.umk.pl/en/) in Toruń
 for cognitive science students (including first-year students). The course covers fundamental topics in fMRI 
-data analysis. The "advanced" part refers to using Python and scripts (not GUI's) 
-over entire classes.
+data analysis (in Python). 
 
 ### The Hogwarts way 
 I called the way of teaching the course *the Hogwarts way*. It refers to the fact 
