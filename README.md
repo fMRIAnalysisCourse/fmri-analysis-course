@@ -70,8 +70,6 @@ Activity + Homework + Poster + Magic
 
 ##### Homework:
 - GitHub Classroom: [fMRI data manipulation in Python](https://github.com/fMRIAnalysisCourse/02-homework)
-- DataCamp Classroom: [Data Manipulation with pandas](https://learn.datacamp.com/courses/data-manipulation-with-pandas)
-- DataCamp Classroom: [Merging DataFrames with pandas](https://learn.datacamp.com/courses/merging-dataframes-with-pandas)
 - DataCamp Classroom: [Introduction to Data Visualization with Matplotlib](https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib)
 
 ### III. [fMRI data preprocessing](https://github.com/fMRIAnalysisCourse/fmri-analysis-course/blob/master/03-fmri_data_preprocessing/fMRIDA_10-04-2020_%233.pdf) (3h)
